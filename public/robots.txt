@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /recent-posts
+Allow: /popular-posts
+Allow: /about-us
+Allow: /terms-of-use
+Allow: /privacy-policy
+Allow: /advertiser-disclosure
+Allow: /posts/$
+Allow: /posts/*
